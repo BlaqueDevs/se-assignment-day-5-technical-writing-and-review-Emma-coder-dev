@@ -68,3 +68,22 @@ Keep Them Concise – Short and to the point .
 Make Them Scannable – Use keywords that reflect the section’s content.
 Avoid Ambiguity – Ensure clarity in wording.
 
+## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+Product Name – Clearly state the name of the project/tool.
+Brief Overview – Describe what the product does in simple terms.
+Bullet Points – Highlight the main functionalities.
+Installation & Setup– Provide a quick-start command or link to detailed setup instructions.
+Who It’s For – Indicate whether it’s for developers, system admins, or general users.
+A Quick Example – Show a one-line command or screenshot of the product in action.
+
+
+## 12. How can you succinctly convey the purpose and key features of a product?
+Use a One-Sentence Summary.
+List Key Features Clearly .
+Show an Example of Usage.
+Use Simple Language .
+
+
+
+
+
